@@ -17,8 +17,6 @@ namespace Aprendendo_CS {
             };
             int contSim = 0;
 
-            Console.WriteLine("-------------------------------");
-
             for (int i = 0; i < vetor.Length; i++)
             {
                 Console.WriteLine(vetor[i] + " ");
@@ -45,7 +43,7 @@ namespace Aprendendo_CS {
             {
                 Console.WriteLine("Inocente");
             }
-            Console.WriteLine(contSim);
+            Console.WriteLine("Contador: ", contSim);
         }
     }
 }

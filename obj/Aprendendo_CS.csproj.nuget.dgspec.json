@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wellington\\Documents\\Projetos C#\\Aprendendo_CS\\Aprendendo_CS.csproj": {}
+    "C:\\Users\\Wellington\\Documents\\Git\\Estudando-CS\\Aprendendo_CS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wellington\\Documents\\Projetos C#\\Aprendendo_CS\\Aprendendo_CS.csproj": {
+    "C:\\Users\\Wellington\\Documents\\Git\\Estudando-CS\\Aprendendo_CS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wellington\\Documents\\Projetos C#\\Aprendendo_CS\\Aprendendo_CS.csproj",
+        "projectUniqueName": "C:\\Users\\Wellington\\Documents\\Git\\Estudando-CS\\Aprendendo_CS.csproj",
         "projectName": "Aprendendo_CS",
-        "projectPath": "C:\\Users\\Wellington\\Documents\\Projetos C#\\Aprendendo_CS\\Aprendendo_CS.csproj",
+        "projectPath": "C:\\Users\\Wellington\\Documents\\Git\\Estudando-CS\\Aprendendo_CS.csproj",
         "packagesPath": "C:\\Users\\Wellington\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wellington\\Documents\\Projetos C#\\Aprendendo_CS\\obj\\",
+        "outputPath": "C:\\Users\\Wellington\\Documents\\Git\\Estudando-CS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wellington\\AppData\\Roaming\\NuGet\\NuGet.Config",

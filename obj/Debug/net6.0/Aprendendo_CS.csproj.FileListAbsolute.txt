@@ -13,3 +13,18 @@ C:\Users\Wellington\Documents\Projetos C#\Aprendendo_CS\obj\Debug\net6.0\refint\
 C:\Users\Wellington\Documents\Projetos C#\Aprendendo_CS\obj\Debug\net6.0\Aprendendo_CS.pdb
 C:\Users\Wellington\Documents\Projetos C#\Aprendendo_CS\obj\Debug\net6.0\Aprendendo_CS.genruntimeconfig.cache
 C:\Users\Wellington\Documents\Projetos C#\Aprendendo_CS\obj\Debug\net6.0\ref\Aprendendo_CS.dll
+C:\Users\Wellington\Documents\Git\Estudando-CS\bin\Debug\net6.0\Aprendendo_CS.exe
+C:\Users\Wellington\Documents\Git\Estudando-CS\bin\Debug\net6.0\Aprendendo_CS.deps.json
+C:\Users\Wellington\Documents\Git\Estudando-CS\bin\Debug\net6.0\Aprendendo_CS.runtimeconfig.json
+C:\Users\Wellington\Documents\Git\Estudando-CS\bin\Debug\net6.0\Aprendendo_CS.dll
+C:\Users\Wellington\Documents\Git\Estudando-CS\bin\Debug\net6.0\Aprendendo_CS.pdb
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.csproj.AssemblyReference.cache
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.AssemblyInfoInputs.cache
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.AssemblyInfo.cs
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.dll
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\refint\Aprendendo_CS.dll
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.pdb
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\Aprendendo_CS.genruntimeconfig.cache
+C:\Users\Wellington\Documents\Git\Estudando-CS\obj\Debug\net6.0\ref\Aprendendo_CS.dll
